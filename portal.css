@@ -1,0 +1,7 @@
+p, .button {
+color: Blue;
+}
+
+.active {
+  color: Yellow;
+}
